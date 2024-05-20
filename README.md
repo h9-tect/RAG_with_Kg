@@ -12,7 +12,7 @@ This repository provides a structured setup for configuring a Nebula graph datab
 1. **Clone the Repository**
 
     ```sh
-    git clone https://github.com/yourusername/knowledge-graph-rag.git
+    git clone ttps://github.com/h9-tect/RAG_with_Kg.git
     cd knowledge-graph-rag
     ```
 
